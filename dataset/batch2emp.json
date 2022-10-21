@@ -14,7 +14,7 @@
 				"folderPath": "input",
 				"fileSystem": "data"
 			},
-			"columnDelimiter": ",",
+			"columnDelimiter": "|",
 			"escapeChar": "\\",
 			"firstRowAsHeader": true,
 			"quoteChar": "\""
